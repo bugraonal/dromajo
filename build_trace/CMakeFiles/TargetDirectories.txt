@@ -1,0 +1,5 @@
+/home/bugra/UCSC/Courses/CSE220/project/dromajo/build_trace/CMakeFiles/edit_cache.dir
+/home/bugra/UCSC/Courses/CSE220/project/dromajo/build_trace/CMakeFiles/rebuild_cache.dir
+/home/bugra/UCSC/Courses/CSE220/project/dromajo/build_trace/CMakeFiles/dromajo_cosim_test.dir
+/home/bugra/UCSC/Courses/CSE220/project/dromajo/build_trace/CMakeFiles/dromajo_cosim.dir
+/home/bugra/UCSC/Courses/CSE220/project/dromajo/build_trace/CMakeFiles/dromajo.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/dromajo_cosim_test.dir/src/dromajo_cosim_test.cpp.o -o dromajo_cosim_test  libdromajo_cosim.a -lrt 
